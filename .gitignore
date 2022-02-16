@@ -7,6 +7,20 @@
 # BlueJ files
 *.ctxt
 
+
+#eclipse
+**/.settings/
+**/.project
+**/.classpath
+**/.apt_generated
+**/.metadata
+**/.factorypath
+
+
+#intellij
+**/*.iml
+**/.idea/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
